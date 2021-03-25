@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="314823" started-at="2021-03-19T14:02:19Z" finished-at="2021-03-19T14:07:33Z">
+    <groups>
+    </groups>
+    <test name="JDA_UI_AUTOMATION" duration-ms="314823" started-at="2021-03-19T14:02:19Z" finished-at="2021-03-19T14:07:33Z">
+      <class name="DriverScript.JDA">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:DriverScript.JDA@3c72f59f]" name="beforeTest" is-config="true" duration-ms="31367" started-at="2021-03-19T14:02:19Z" finished-at="2021-03-19T14:02:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="JDAPIMSupersession()[pri:1, instance:DriverScript.JDA@3c72f59f]" name="JDAPIMSupersession" duration-ms="46595" started-at="2021-03-19T14:02:50Z" finished-at="2021-03-19T14:03:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JDAPIMSupersession -->
+        <test-method status="PASS" signature="JDALogout()[pri:0, instance:DriverScript.JDA@3c72f59f]" name="JDALogout" is-config="true" duration-ms="13428" started-at="2021-03-19T14:03:37Z" finished-at="2021-03-19T14:03:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JDALogout -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:DriverScript.JDA@3c72f59f]" name="beforeTest" is-config="true" duration-ms="28364" started-at="2021-03-19T14:03:50Z" finished-at="2021-03-19T14:04:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="JDADemandWorkBench()[pri:2, instance:DriverScript.JDA@3c72f59f]" name="JDADemandWorkBench" duration-ms="75778" started-at="2021-03-19T14:04:18Z" finished-at="2021-03-19T14:05:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JDADemandWorkBench -->
+        <test-method status="PASS" signature="JDALogout()[pri:0, instance:DriverScript.JDA@3c72f59f]" name="JDALogout" is-config="true" duration-ms="14016" started-at="2021-03-19T14:05:34Z" finished-at="2021-03-19T14:05:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JDALogout -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:DriverScript.JDA@3c72f59f]" name="beforeTest" is-config="true" duration-ms="28543" started-at="2021-03-19T14:05:48Z" finished-at="2021-03-19T14:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="JDASupersession()[pri:3, instance:DriverScript.JDA@3c72f59f]" name="JDASupersession" duration-ms="62771" started-at="2021-03-19T14:06:17Z" finished-at="2021-03-19T14:07:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JDASupersession -->
+        <test-method status="PASS" signature="JDALogout()[pri:0, instance:DriverScript.JDA@3c72f59f]" name="JDALogout" is-config="true" duration-ms="13878" started-at="2021-03-19T14:07:20Z" finished-at="2021-03-19T14:07:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JDALogout -->
+      </class> <!-- DriverScript.JDA -->
+    </test> <!-- JDA_UI_AUTOMATION -->
+  </suite> <!-- Suite -->
+</testng-results>
