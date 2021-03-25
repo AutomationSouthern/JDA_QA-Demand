@@ -95,7 +95,7 @@ public class JDA extends DififoReportSetup{
 		Thread.sleep(2000);
 		report.log("User is viewing JDA Homepage now");
 		Screenshot("HomePage");
-		Thread.sleep(5000);
+		Thread.sleep(6000);
 	}
 	
 	@Test(priority=3)
