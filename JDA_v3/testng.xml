@@ -11,7 +11,7 @@
        <class name="DriverScript.JDA"/>
     </classes>
    </test>
-  <test name="SNAPSHOT_VALIDATIONS">
+   <test name="SNAPSHOT_VALIDATIONS">
      <classes>
        <class name="DriverScript.snapshots"/>
     </classes>

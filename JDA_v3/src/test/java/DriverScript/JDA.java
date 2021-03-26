@@ -64,7 +64,7 @@ public class JDA extends DififoReportSetup{
 		System.setProperty("webdriver.chrome.driver", "./Drivers\\chromedriver89.exe");
 		driver = new ChromeDriver();
 		driver.manage().deleteAllCookies();
-		Thread.sleep(3000);
+		Thread.sleep(5000);
 		exf = new ExcelFile();
 		InputStream envPropInput = new FileInputStream("./Environment\\Environment.properties");
 		Properties envProp = new Properties();
