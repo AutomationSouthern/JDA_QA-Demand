@@ -6,7 +6,7 @@
        <class name="DriverScript.Ssclassification"/>
     </classes>
   </test> 
-  <test name="JDA_UI_AUTOMATION">
+  <!-- <test name="JDA_UI_AUTOMATION">
     <classes>
        <class name="DriverScript.JDA"/>
     </classes>
@@ -15,6 +15,6 @@
      <classes>
        <class name="DriverScript.snapshots"/>
     </classes>
-  </test>
+  </test> -->
 </suite> <!-- Suite -->
 

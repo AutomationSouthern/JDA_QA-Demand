@@ -281,7 +281,7 @@ public class DataBase extends DififoReportSetup {
 
 		Cell merge = row.createCell(8);
 
-		merge.setCellValue(a+b);
+		merge.setCellValue(b+a);
 		}
 		catch (Exception e) {
             return;
