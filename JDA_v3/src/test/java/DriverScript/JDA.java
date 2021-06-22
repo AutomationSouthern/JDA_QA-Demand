@@ -204,7 +204,7 @@ public class JDA extends DififoReportSetup{
 		driver.switchTo().frame("appFrame");
 		wb.clickdone();
 		report.log("Search Results from UI");
-		Thread.sleep(18000);
+		Thread.sleep(19000);
 		driver.switchTo().defaultContent();
 		Screenshot("Demand Workbench is now visible");
 		Thread.sleep(2000);
